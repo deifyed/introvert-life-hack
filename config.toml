@@ -51,11 +51,6 @@ name = "Archive"
 url = "/archive/"
 weight = 10
 [[menu.main]]
-identifier = "guide"
-name = "Guide"
-url = "/series/themes-guide/"
-weight = 20
-[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
@@ -63,8 +58,8 @@ weight = 50
 
 
 [params]
-author = "Oss"
-description = "An introvert's life hacks"
+author = "Introvert"
+description = ""
 keywords = "introvert,lifehack"
 img_home = "img/home-bg.jpg"
 img_404 = "img/404-bg.jpg"
