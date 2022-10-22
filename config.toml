@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/subdir"
+baseURL = "https://deifyed.github.io/introvert-life-hack"
 title = "An introvert's lifehacks"
 
 theme = "puppet"
