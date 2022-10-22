@@ -50,11 +50,6 @@ identifier = "archive"
 name = "Archive"
 url = "/archive/"
 weight = 10
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 50
 
 
 [params]
